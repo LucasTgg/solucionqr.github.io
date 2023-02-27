@@ -1,0 +1,24 @@
+@media(max-width:800px){
+    #contenedor_qr{
+        width: 25em;
+        height: 39em;
+    }
+
+    #qr{
+        width: 80%;
+    }
+
+    #titulo{
+        font-size: 29px;
+        padding-top: 40px;
+        margin: 0px 5px 10px 5px;
+    }
+
+    #subtitulo{
+        font-size: 20px;
+        padding-top: 30px;
+        margin: 0px 10px 25px 10px;
+        position: relative;
+        
+    }
+}
